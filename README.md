@@ -10,7 +10,7 @@ Each project is designed to help you sharpen your problem-solving skills and rei
 #### 
 
 | Folder Name | Useages & Description                       |
-| :-------- | :------- | :-------------------------------- |
+| :-------- | :-------------------------------- |
 | `Computer_Number_Guessing_Game` | Computer Guess the number which User has Input |
 | `Dice_Game` | A simple Dice Game, Computer returns a dice number from 1 to 6 |
 | `FizzBuzz` | A simple FizzBuzz Project  |
