@@ -3,8 +3,6 @@ print("User Number Guesing Game")
 print("*"*24)
 print("")
 
-
-
 import random
 
 def computer_guess(x):
